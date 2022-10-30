@@ -12,7 +12,7 @@ A simple string (time+unit) to seconds converter.
 >  pip install regfex
 > ```
 
-## Using
+## Usage
 > ```python
 > import strime
 >
@@ -26,4 +26,4 @@ A simple string (time+unit) to seconds converter.
 
 ## Support
 
-For support, email <a href="mailto://woidzeroo@gmail.com">contact@woidzero.xyz</a> or join Discord - <a href="https://discord.gg/RSsCkch3CM">@woidzero_notes</a>
+For support, email <a href="mailto://woidzeroo@gmail.com">woidzeroo@gmail.com</a> or join Discord - <a href="https://discord.gg/RSsCkch3CM">@woidzero_notes</a>
