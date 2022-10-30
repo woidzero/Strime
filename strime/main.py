@@ -1,6 +1,6 @@
 # main.py
 # A simple string (time+unit) to seconds converter.
-# https://github.com/woidzero/strime.git
+# https://github.com/woidzero/Strime.git
 
 
 from datetime import datetime

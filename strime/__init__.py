@@ -7,4 +7,5 @@ A simple string (time+unit) to seconds converter.
 :license: Licensed under the MIT license.
 """
 
+
 from .main import *
